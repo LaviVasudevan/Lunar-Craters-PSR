@@ -26,9 +26,9 @@ Our approach focuses on removing band noise and speckle noise using:
 
 ![Project Overview](SIH_2024_SPACE_PENGUINS.jpg)
 
-![Denoising Steps](SIH_2024_SPACE_PENGUINS (2).jpg)
+![Denoising Steps]([SIH_2024_SPACE_PENGUINS (2).jpg](https://github.com/LaviVasudevan/Lunar-Craters-PSR/blob/2a4a39917cd033da0d77c23431dd3549a00132b3/SIH_2024_SPACE_PENGUINS%20(2).jpg))
 
-![Enhanced Image](SIH_2024_SPACE_PENGUINS (1).jpg)
+![Enhanced Image]([SIH_2024_SPACE_PENGUINS (1).jpg](https://github.com/LaviVasudevan/Lunar-Craters-PSR/blob/2a4a39917cd033da0d77c23431dd3549a00132b3/SIH_2024_SPACE_PENGUINS%20(1).jpg))
 
 ## Performance Metrics
 - **Structural Similarity Index (SSIM):** 0.98
