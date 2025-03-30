@@ -26,9 +26,9 @@ Our approach focuses on removing band noise and speckle noise using:
 
 ![Project Overview](SIH_2024_SPACE_PENGUINS.jpg)
 
-![Denoising Steps](SIH_2024_SPACE_PENGUINS (1).jpg)
+![Denoising Steps](SIH_2024_SPACE_PENGUINS(1).jpg)
 
-![Enhanced Image](SIH_2024_SPACE_PENGUINS (2).jpg)
+![Enhanced Image](SIH_2024_SPACE_PENGUINS(2).jpg)
 
 ## Performance Metrics
 - **Structural Similarity Index (SSIM):** 0.98
