@@ -24,10 +24,8 @@ Our approach focuses on removing band noise and speckle noise using:
 - **Deep Learning-Based Methods:** CNN + CLAHE + Retinex
 - **Hybrid Approaches:** Combination of traditional and deep learning methods
 
-![Project Overview](SIH_2024_SPACE_PENGUINS.jpg)
-
 ![Denoising Steps](SIH_2024_SPACE_PENGUINS%20(2).jpg)
-
+![Project Overview](SIH_2024_SPACE_PENGUINS.jpg)
 ![Enhanced Image](SIH_2024_SPACE_PENGUINS%20(1).jpg)
 
 ## Performance Metrics
